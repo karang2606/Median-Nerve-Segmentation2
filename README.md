@@ -1,6 +1,6 @@
 # Median-Nerve-Segmentation
 
-##Installation
+## Installation
 
 Clone the git-repository first.
 git clone https://github.com/karang2606/Median-Nerve-Segmentation.git
