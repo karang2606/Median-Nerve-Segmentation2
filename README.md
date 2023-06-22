@@ -3,8 +3,9 @@
 ## Installation
 
 Clone the git-repository first.
+'''
 git clone https://github.com/karang2606/Median-Nerve-Segmentation.git
-
+'''
 Set directory structure as follows:
 ```
 VisTR
