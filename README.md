@@ -1,4 +1,4 @@
-# median-nerve-segmentation
+# Median-Nerve-Segmentation
 Set directory structure as follows:
 ```
 VisTR
