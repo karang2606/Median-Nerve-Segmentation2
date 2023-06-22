@@ -1,12 +1,14 @@
 # median-nerve-segmentation
-
+Set directory structure as follows:
 ```
 VisTR
 ├── data
 │   ├── train
-│   ├── val
-│   ├── annotations
-│   │   ├── instances_train_sub.json
-│   │   ├── instances_val_sub.json
-├── models
+│   |   ├──patient_01
+│   |   |   ├──images
+│   |   |   |   ├──0.jpg, ....
+│   |   |   ├──masks
+│   |   |       ├──0.png, ....
+│   ├── test
 ...
+```
